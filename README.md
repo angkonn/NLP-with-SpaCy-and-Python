@@ -1,4 +1,4 @@
-# 🤖 Welcome to my NLP-with-SpaCy-and-Python repository! 🤖
+# NLP-with-SpaCy-and-Python
 
 This is where I upload my **NL experiments**, **projects**, and random **notebooks** I tinker with.
 
